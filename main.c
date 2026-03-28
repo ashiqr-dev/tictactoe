@@ -2,7 +2,6 @@
  * WARNING: dont enter a character it will freak out.
  *
  * FIX: fgets and sscanf for input validation
- * TODO: add win/draw system.
  */
 
 #include <stdbool.h>
